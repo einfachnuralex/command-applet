@@ -1,0 +1,14 @@
+{
+  "description": "", 
+  "extension-id": "command-applet", 
+  "gettext-domain": "gnome-shell-extensions", 
+  "name": "Command Applet", 
+  "shell-version": [
+    "3.4", 
+    "3.6",
+    "3.8"
+  ], 
+  "url": "https://github.com/einfachnuralex/command-applet", 
+  "uuid": "command-applet@einfachnuralex.github.com", 
+  "version": 3
+}
